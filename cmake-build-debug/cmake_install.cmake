@@ -1,4 +1,4 @@
-# Install script for directory: /home/aleksa/Downloads/RG2021-main
+# Install script for directory: /home/aleksa/Downloads/RG_2021_FINAL-main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,8 +39,8 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/glad/cmake_install.cmake")
-  include("/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/imgui/cmake_install.cmake")
+  include("/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/glad/cmake_install.cmake")
+  include("/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/imgui/cmake_install.cmake")
 
 endif()
 
@@ -52,5 +52,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

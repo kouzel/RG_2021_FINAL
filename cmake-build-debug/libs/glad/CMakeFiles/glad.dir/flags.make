@@ -6,5 +6,5 @@ C_FLAGS = -g
 
 C_DEFINES = 
 
-C_INCLUDES = -I/home/aleksa/Downloads/RG2021-main/libs/glad/include 
+C_INCLUDES = -I/home/aleksa/Downloads/RG_2021_FINAL-main/libs/glad/include 
 

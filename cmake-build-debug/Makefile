@@ -68,10 +68,10 @@ RM = "/home/aleksa/Desktop/clion/CLion-2020.2.4 (1)/clion-2020.2.4/bin/cmake/lin
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/aleksa/Downloads/RG2021-main
+CMAKE_SOURCE_DIR = /home/aleksa/Downloads/RG_2021_FINAL-main
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/aleksa/Downloads/RG2021-main/cmake-build-debug
+CMAKE_BINARY_DIR = /home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -100,9 +100,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aleksa/Downloads/RG2021-main/cmake-build-debug/CMakeFiles /home/aleksa/Downloads/RG2021-main/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/CMakeFiles /home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/aleksa/Downloads/RG2021-main/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

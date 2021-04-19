@@ -1,4 +1,4 @@
-# Install script for directory: /home/aleksa/Downloads/RG2021-main/libs/imgui
+# Install script for directory: /home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

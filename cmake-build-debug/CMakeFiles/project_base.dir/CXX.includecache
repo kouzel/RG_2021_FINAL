@@ -182,13 +182,13 @@ imgui.h
 TargetConditionals.h
 ../libs/imgui/include/TargetConditionals.h
 
-/home/aleksa/Downloads/RG2021-main/src/main.cpp
+/home/aleksa/Downloads/RG_2021_FINAL-main/src/main.cpp
 imgui.h
-/home/aleksa/Downloads/RG2021-main/src/imgui.h
+/home/aleksa/Downloads/RG_2021_FINAL-main/src/imgui.h
 imgui_impl_glfw.h
-/home/aleksa/Downloads/RG2021-main/src/imgui_impl_glfw.h
+/home/aleksa/Downloads/RG_2021_FINAL-main/src/imgui_impl_glfw.h
 imgui_impl_opengl3.h
-/home/aleksa/Downloads/RG2021-main/src/imgui_impl_opengl3.h
+/home/aleksa/Downloads/RG_2021_FINAL-main/src/imgui_impl_opengl3.h
 glad/glad.h
 -
 GLFW/glfw3.h

@@ -4,13 +4,13 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/aleksa/Downloads/RG2021-main/libs/imgui/src/imgui.cpp" "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui.cpp.o"
-  "/home/aleksa/Downloads/RG2021-main/libs/imgui/src/imgui_demo.cpp" "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_demo.cpp.o"
-  "/home/aleksa/Downloads/RG2021-main/libs/imgui/src/imgui_draw.cpp" "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_draw.cpp.o"
-  "/home/aleksa/Downloads/RG2021-main/libs/imgui/src/imgui_impl_glfw.cpp" "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_glfw.cpp.o"
-  "/home/aleksa/Downloads/RG2021-main/libs/imgui/src/imgui_impl_opengl3.cpp" "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_opengl3.cpp.o"
-  "/home/aleksa/Downloads/RG2021-main/libs/imgui/src/imgui_tables.cpp" "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_tables.cpp.o"
-  "/home/aleksa/Downloads/RG2021-main/libs/imgui/src/imgui_widgets.cpp" "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_widgets.cpp.o"
+  "/home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui/src/imgui.cpp" "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui.cpp.o"
+  "/home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui/src/imgui_demo.cpp" "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_demo.cpp.o"
+  "/home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui/src/imgui_draw.cpp" "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_draw.cpp.o"
+  "/home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui/src/imgui_impl_glfw.cpp" "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_glfw.cpp.o"
+  "/home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui/src/imgui_impl_opengl3.cpp" "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_opengl3.cpp.o"
+  "/home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui/src/imgui_tables.cpp" "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_tables.cpp.o"
+  "/home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui/src/imgui_widgets.cpp" "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/imgui/CMakeFiles/imgui.dir/src/imgui_widgets.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -27,7 +27,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/aleksa/Downloads/RG2021-main/cmake-build-debug/libs/glad/CMakeFiles/glad.dir/DependInfo.cmake"
+  "/home/aleksa/Downloads/RG_2021_FINAL-main/cmake-build-debug/libs/glad/CMakeFiles/glad.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

@@ -6,5 +6,5 @@ CXX_FLAGS = -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -O3 -g   -s
 
 CXX_DEFINES = -DIMGUI_IMPL_OPENGL_LOADER_GLAD
 
-CXX_INCLUDES = -I/home/aleksa/Downloads/RG2021-main/libs/imgui/include -I/home/aleksa/Downloads/RG2021-main/libs/glad/include 
+CXX_INCLUDES = -I/home/aleksa/Downloads/RG_2021_FINAL-main/libs/imgui/include -I/home/aleksa/Downloads/RG_2021_FINAL-main/libs/glad/include 
 
